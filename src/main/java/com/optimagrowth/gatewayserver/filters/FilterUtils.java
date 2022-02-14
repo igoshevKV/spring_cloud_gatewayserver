@@ -6,7 +6,7 @@ import org.springframework.web.server.ServerWebExchange;
 
 import java.util.List;
 
-@Component
+//@Component
 public class FilterUtils {
     public static final String CORRELATION_ID = "tmx-correlation-id";
     public static final String AUTH_TOKEN = "tmx-auth-token";
